@@ -3,14 +3,17 @@
   # Hi, I'm Jainam Jain <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Codewithjainam7&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1" alt="Codewithjainam7_trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Codewithjainam7&theme=radical&no-frame=true&margin-w=10&margin-h=10&row=1" alt="Codewithjainam7_trophies" />
   </a>
 
-  <br>
+  <br><br>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F24E1E&center=true&vCenter=true&width=600&lines=while(alive)+%7B+code()%3B+create()%3B+automate()%3B+%7D;Passionate+about+Gen+AI+and+Full-Stack+Solutions;Building+Commercial+AI+Video+Ads" alt="Typing SVG" />
-  </a>
+  <h3><code>while(alive) { code(); create(); automate(); }</code></h3>
+  
+  <p>
+    Passionate about Gen AI and Full-Stack Solutions 🚀<br>
+    <b>Building Commercial AI Video Ads</b>
+  </p>
 
   <br>
 

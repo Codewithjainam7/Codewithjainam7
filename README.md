@@ -163,13 +163,14 @@ focus     : Software Engineering | Gen AI | Full-Stack
 
 
 
-<!-- ✅ Original GitHub Contribution Heatmap Calendar -->
 <div align="center">
   <h3>🗓️ Contribution Heatmap</h3>
-  <img src="https://ghchart.rshah.org/Codewithjainam7" alt="Jainam's GitHub Contribution Heatmap" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codewithjainam7/Codewithjainam7/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Codewithjainam7/Codewithjainam7/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Codewithjainam7/Codewithjainam7/output/github-snake.svg" width="95%" />
+  </picture>
 </div>
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
